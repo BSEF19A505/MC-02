@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View view) {
-                gotoUrl("https://www.youtube.com/watch?v=Bx_qsu-kQ2U");
+                gotoUrl("https://github.com/BSEF19A505/MC-02");
             }
         });
     }
